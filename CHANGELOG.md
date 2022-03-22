@@ -1,3 +1,24 @@
+## [4.1.8](https://github.com/reactioncommerce/reaction/compare/v4.1.7...v4.1.8) (2022-03-02)
+
+
+### Bug Fixes
+
+* update sharp to match files ([f4ad49e](https://github.com/reactioncommerce/reaction/commit/f4ad49e9a07a49e1805013b3ec2f503361a80242))
+
+## [4.1.7](https://github.com/reactioncommerce/reaction/compare/v4.1.6...v4.1.7) (2022-02-14)
+
+
+### Bug Fixes
+
+* package.json & package-lock.json to reduce vulnerabilities ([2bac773](https://github.com/reactioncommerce/reaction/commit/2bac773c4f93a501e2356e1df50903afa865a2a5))
+
+## [4.1.6](https://github.com/reactioncommerce/reaction/compare/v4.1.5...v4.1.6) (2022-02-14)
+
+
+### Bug Fixes
+
+* upgrade @reactioncommerce/api-plugin-catalogs from 1.1.0 to 1.1.2 ([c379426](https://github.com/reactioncommerce/reaction/commit/c37942647f39459d5082973af75c26a4e42abfb4))
+
 ## [4.1.5](https://github.com/reactioncommerce/reaction/compare/v4.1.4...v4.1.5) (2021-11-22)
 
 
