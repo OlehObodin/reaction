@@ -36,5 +36,6 @@
   "sitemapGenerator": "@reactioncommerce/api-plugin-sitemap-generator",
   "notifications": "@reactioncommerce/api-plugin-notifications",
   "addressValidationTest": "@reactioncommerce/api-plugin-address-validation-test",
-  "productsVolume": "@itleadopencommerce/api-plugin-products-volume"
+  "productsVolume": "@itleadopencommerce/api-plugin-products-volume",
+  "marketplace": "@itleadopencommerce/reaction-marketplace"
 }
